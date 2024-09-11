@@ -28,3 +28,6 @@
 [submodule "Repositories/FlipperZero-Subghz-DB"]
 	path = Repositories/FlipperZero-Subghz-DB
 	url = https://github.com/Zero-Sploit/FlipperZero-Subghz-DB.git
+[submodule "Repositories/evilportal-htmlsquash"]
+	path = Repositories/evilportal-htmlsquash
+	url = https://github.com/RocketGod-git/evilportal-htmlsquash.git
