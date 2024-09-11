@@ -1,0 +1,30 @@
+[submodule "Repositories/FlipperSkylanders"]
+	path = Repositories/FlipperSkylanders
+	url = https://github.com/sealldeveloper/FlipperSkylanders.git
+[submodule "Repositories/evilportals"]
+	path = Repositories/evilportals
+	url = https://github.com/kleo/evilportals.git
+[submodule "Repositories/Flipper"]
+	path = Repositories/Flipper
+	url = https://github.com/UberGuidoZ/Flipper.git
+[submodule "Repositories/FlipperAmiibo"]
+	path = Repositories/FlipperAmiibo
+	url = https://github.com/Gioman101/FlipperAmiibo.git
+[submodule "Repositories/Flipper-IRDB"]
+	path = Repositories/Flipper-IRDB
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "Repositories/Flipper-Zero-BadUSB"]
+	path = Repositories/Flipper-Zero-BadUSB
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB.git
+[submodule "Repositories/flipperzero-evil-portal"]
+	path = Repositories/flipperzero-evil-portal
+	url = https://github.com/RogueMaster/flipperzero-evil-portal.git
+[submodule "Repositories/flipper-zero-evil-portal"]
+	path = Repositories/flipper-zero-evil-portal
+	url = https://github.com/bigbrodude6119/flipper-zero-evil-portal.git
+[submodule "Repositories/Flipper-Zero-NFC-Trolls"]
+	path = Repositories/Flipper-Zero-NFC-Trolls
+	url = https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls.git
+[submodule "Repositories/FlipperZero-Subghz-DB"]
+	path = Repositories/FlipperZero-Subghz-DB
+	url = https://github.com/Zero-Sploit/FlipperZero-Subghz-DB.git
