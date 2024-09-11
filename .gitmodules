@@ -31,3 +31,6 @@
 [submodule "Repositories/evilportal-htmlsquash"]
 	path = Repositories/evilportal-htmlsquash
 	url = https://github.com/RocketGod-git/evilportal-htmlsquash.git
+[submodule "Repositories/omg-payloads"]
+	path = Repositories/omg-payloads
+	url = https://github.com/hak5/omg-payloads.git
